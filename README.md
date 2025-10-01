@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#dc143c;">Karma-hghosting</h1>
+<h1 align="center" style="color:#dc143c;">Karma</h1>
 
 <p align="center">
   <strong>Fondateur de HG Hosting</strong><br>
