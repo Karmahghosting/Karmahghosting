@@ -93,7 +93,7 @@ Mon travail combine :
 ## 📬 Contact
 
 - 🌐 Site web : [hg-hosting.com](https://hg-hosting.com)  
-- 📧 Email : [contact@hg-hosting.com](mailto:contact@hg-hosting.com)  
+- 📧 Email : [administrateur@hg-hosting.com](mailto:administrateur@hg-hosting.com)  
 - 🧭 GitHub : [github.com/Karmahghosting](https://github.com/Karmahghosting)
 
 ---
