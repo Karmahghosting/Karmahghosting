@@ -1,3 +1,16 @@
+<!-- 💻 Stickers / Badges -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+  <img src="https://media.tenor.com/_XxE5mE-4w4AAAAi/femboy-cute.gif" width="70" height="70"/>
+</p>
+
 <h1 align="center" style="color:#dc143c;">Karma</h1>
 
 <p align="center">
@@ -13,7 +26,6 @@
 </p>
 
 <p align="center">
-  <!-- Langages -->
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -22,7 +34,6 @@
 </p>
 
 <p align="center">
-  <!-- Systèmes & Outils -->
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
@@ -40,7 +51,9 @@ Mon approche repose sur la **virtualisation intelligente**, la **gestion fine de
 Mon travail combine :
 - Développement d’outils internes (Python, C#, PowerShell)  
 - Automatisation d’environnements virtualisés (Proxmox, Ansible, Terraform)  
-- Déploiement de solutions hébergées pour les entreprises et les projets de jeux vidéo
+- Déploiement de solutions hébergées pour les entreprises et les projets de jeux vidéo  
+
+
 
 ---
 
@@ -117,5 +130,5 @@ Mon travail combine :
 
 <p align="center">
   <i>“L’efficacité d’une infrastructure se mesure à sa stabilité.”</i><br>
-  — HG Hosting
+  — HG Hosting 🌸💻
 </p>
