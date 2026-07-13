@@ -20,5 +20,5 @@ Fondateur & Architecte Cloud chez HG Hosting. Virtualisation, automatisation et 
 
 ## Contact
 
-- Site : [hg-hosting.com](https://hg-hosting.com)
-- Mail : [administrateur@hg-hosting.com](mailto:administrateur@hg-hosting.com)
+- Site : [hg-hosting.fr](https://hg-hosting.fr)
+- Mail : [administrateur@hg-hosting.fr](mailto:administrateur@hg-hosting.fr)
